@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "SystemColors",
     platforms: [
-        .iOS(.v11),
+        .iOS(.v12),
         .watchOS(.v6),
         .tvOS(.v13),
         .macOS(.v10_10)
